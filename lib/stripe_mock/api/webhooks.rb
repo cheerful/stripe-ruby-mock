@@ -77,6 +77,7 @@ module StripeMock
         'payment_intent.processing',
         'payment_intent.succeeded',
         'payment_intent.payment_failed',
+        'payment_intent.requires_action',
         'plan.created',
         'plan.updated',
         'plan.deleted',
